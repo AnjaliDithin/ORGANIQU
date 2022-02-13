@@ -1,0 +1,9 @@
+.about-banner{
+    background-image: url('../../../assets/images/aboutbanner.jpg');
+    height:400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+}
+
